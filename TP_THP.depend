@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1583220565 source:d:\tp_thp\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1583220449 source:d:\tp_thp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1583220563 d:\tp_thp\functions.h
+
+1588457675 source:c:\users\samdz\downloads\tp_thp\tp_thp\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1588457437 c:\users\samdz\downloads\tp_thp\tp_thp\functions.h
+
+1588457773 source:c:\users\samdz\downloads\tp_thp\tp_thp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1588463925 source:c:\users\samdz\onedrive\bureau\tp_thp_amrouche_hendel\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1588463938 c:\users\samdz\onedrive\bureau\tp_thp_amrouche_hendel\functions.h
+
